@@ -1,4 +1,4 @@
-# Modèles-statistiques-pour-fusion-de-base-de-données
+# Modèles statistiques pour fusion de bases de données
 
 Stage MVA/ENSAE Clément, Guillo 2019-2020
 
